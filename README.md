@@ -15,7 +15,7 @@ Python:
 - ANOVA Test: Testing the mean value of a continuous variable among three or more independent groups.
 - T-test: Testing the mean value of a continuous variable between two independent groups.
 - Predictive Modeling: Using algorithms such as KNN, Random Forest, Linear Regression, etc., for predictive analysis.
-- 
+
 Project Objectives:
 The research focuses on studying the factors influencing sleep quality and providing improvement directions:
 - Understand the importance of sleep for health and human development.
